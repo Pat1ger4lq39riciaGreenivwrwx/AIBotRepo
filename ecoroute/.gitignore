@@ -1,0 +1,8 @@
+node_modules/
+__pycache__/
+*.env
+mobile_app/android/
+mobile_app/ios/
+data/transport_networks/*.geojson
+data/carbon_emission_factors/*.csv
+models/*.pkl
